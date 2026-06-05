@@ -1,0 +1,11 @@
+{
+    "assemblyName": "SigmaQuest",
+    "converterClass": "Virinco.WATS.Converter.SigmaQuest.GenericXMLConverter",
+    "displayName": "SigmaQuest XML Converter",
+    "description": "Converts SigmaQuest XML test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.xml",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\SigmaQuest",
+    "postProcessAction": "Archive",
+    "productGuid": "c9cf7433-a3bc-3cb3-43f6-af004931efb8"
+}
